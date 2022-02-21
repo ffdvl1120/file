@@ -32,13 +32,13 @@ git clone https://github.com/NAYABPARI/file
 
 cd file
 
-python2 Zeeshan.py
+python2 MZR.py
 
 Usage
 
 cd file
 
-python2 Zeeshan.PY
+python2 MZR.py
 
 Disclaimer
 
